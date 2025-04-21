@@ -1,2 +1,2 @@
 ## Budgie build - open source
-- Budgie build, with all versions.
+- Budgie build, with all versions for W1.
