@@ -347,7 +347,7 @@ void loop() {
       Displaysts = HIGH;
     }
   } else if (bbtnact == 0 && MODE != 0 && APP == 0) {
-    openApp(MODE);
+    //openApp(MODE);
   }
 
   if (abtnact == 0 && Displaysts == HIGH && APP == 0) {
