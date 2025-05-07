@@ -73,7 +73,7 @@ int DFPlayerrd;
 
 //Apps
 
-/*experimental,  comming soon.
+/*experimental,  coming soon.
 void openApp(int appnum;) {
   APP = MODE
 }
